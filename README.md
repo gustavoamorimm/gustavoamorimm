@@ -18,12 +18,15 @@ src="https://raw.githubusercontent.com/gist/gustavoamorimm/cdd1c05f3830bd37647fb
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql)&nbsp;
 
 <br><br>
@@ -31,8 +34,8 @@ src="https://raw.githubusercontent.com/gist/gustavoamorimm/cdd1c05f3830bd37647fb
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gustavoamorimm&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoamorimm&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 -->
 
@@ -40,14 +43,22 @@ src="https://raw.githubusercontent.com/gist/gustavoamorimm/cdd1c05f3830bd37647fb
 
 ## Contact
 
-
-<a href="https://www.linkedin.com/in/gustavoamoriim/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gustavoamorim-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="mailto:contato.gustavo.amorim2807@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="https://twitter.com/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/maykbrito" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://youtube.com/maykbrito" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-
 
 
