@@ -1,52 +1,53 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gustavoamorimm/gustavoamorimm/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<img align="right" height="590"
+src="https://raw.githubusercontent.com/gist/gustavoamorimm/cdd1c05f3830bd37647fb7f1f85df6a9/raw/ad9897a9bc398a3694648bb9a59387bd2e17e666/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo Amorim</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoamorimm&color=yellow" alt="Profile views" /> </p>
 
-<p align="center">I solve great challenges using tech. <br><br> From backend development using Python to frontend development using Javascript, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack low-level developer</strong> focused on web development.</p>&nbsp;
+- 🔥 Junior Web Developer & Focused on learning new languages
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustavoamorimm&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-gustavoamorimm.vercel.app/api/top-langs/?username=gustavoamorimm&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+- 🔭 I’m currently working at [Stefanini](https://github.com/stefanini)
+
+- 💬 Ask me about **JavaScript,Python,C#,HTML**
+
+- ⚡ Fun fact **Calisthenic 😜**
+
+<!--
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gustavoamorimm&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoamorimm&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+-->
+
+<br><br>
+
+## Contact
 
 
-
-## My Skills
-
-#### Main Stack:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-
-#### Studying in this moment:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
+<a href="https://www.linkedin.com/in/gustavoamoriim/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gustavoamorim-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href = "mailto:contato.gustavo.amorim2807@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavo-amorim-5194951a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="mailto:contato.gustavo.amorim2807@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</p>
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+
