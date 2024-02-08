@@ -15,7 +15,7 @@ src="https://raw.githubusercontent.com/gist/gustavoamorimm/cdd1c05f3830bd37647fb
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)&nbsp;
 
 
 
@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/gist/gustavoamorimm/cdd1c05f3830bd37647fb
 #### Studying in this moment:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)&nbsp;
 
 
 #### Workstation Tools:
