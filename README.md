@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo Amorim</h1>
 
-
 ###
 
 <h3 align="center">Only one developer from Brazil</h3>
