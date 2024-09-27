@@ -58,10 +58,13 @@
 
 ##
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavoamorimm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoamorimm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="150" alt="languages graph"/>
-</div>
+<p align="center">
+<a href="https://github.com/gustavoamorimm/github-readme-stats">
+  <img height=170 align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=gustavoamorimm&show_icons=true&theme=graywhite&card_width=150" />
+</a>
+<a href="https://github.com/gustavoamorimm/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoamorimm&layout=compact&langs_count=8&card_width=150&show_icons=true&theme=graywhite" />
+</a>
   
   
 ###
