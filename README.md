@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[Stefanini](https://github.com/stefanini)**
 
-- 💬 Ask me about ****JavaScript,Python,C#,HTML****
+- 💬 Ask me about ****Java,Python,C#****
 
 - 📫 How to reach me **gustavoamorim.2807@gmail.com**
 
